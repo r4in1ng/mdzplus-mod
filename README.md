@@ -4,7 +4,7 @@ This is my personal modification for Mini DayZ+ 1.2. I didn't name this mod beca
 
 ### [Play here.](https://r4in1ng.github.io/mdzplus-mod)
 
-## Features 
+## Changes
 
 - Beautified "data.js" file for easier modding, at the cost of larger file size.
 - Updated jQuery to the latest stable version (3.4.1 > 3.7.1). Difference? I don't know.
@@ -29,7 +29,7 @@ And maybe some other changes that I may forgot to list here...
 
 - Offline play
 
-Your browser will cache necessary resources when you first load to the game. All you need for offline play is load up the game with internet connection available for the first time, after that you can turn off the internet connection and play the game. This applies the next time you load up the game, you just need to remember the link address to play. Unless, you have cleared your browser's cache.
+Your browser will cache necessary resources when you first load to the game. All you need for offline play is load up the game with internet connection available for the first time, after that you can turn off the internet connection and play the game. This applies the next time you load up the game. Unless, you have cleared your browser's cache.
 
 - "Casul" modification
 
@@ -37,4 +37,4 @@ Sure, you can say that I guess. I made the game a lot easier than it was origina
 
 ## Credits
 
-All credits goes to the original authors of Mini DayZ(+), notably Arclighting and Altero for the Mini DayZ+ modification.
+All credits goes to the original authors of Mini DayZ(+), notably Altero for the Mini DayZ+ modification.

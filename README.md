@@ -1,6 +1,6 @@
 # Mini DayZ+ Modification
 
-This is my personal modification for Mini DayZ+ 1.2. I didn't name this mod because this mod was intended for personal use. I uploaded it to GitHub so I can play it on my other device. If you wish, you can call this mod "r4in1ng's MDZ+".
+This is a fork of [NextDev65's MiniDayZ](https://github.com/NextDev65/MiniDayZ) with my personal modification for Mini DayZ+ 1.2. I didn't name this mod because this mod was intended for personal use. I uploaded it to GitHub so I can play it on my other device. If you wish, you can call this mod "r4in1ng's MDZ+".
 
 ### [Play here.](https://r4in1ng.github.io/mdzplus-mod)
 

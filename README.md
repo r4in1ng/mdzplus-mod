@@ -2,6 +2,8 @@
 
 This is my personal modification for Mini DayZ+ 1.2. I didn't name this mod because this mod was intended for personal use. I uploaded it to GitHub so I can play it on my other device. If you wish, you can call this mod "r4in1ng's MDZ+".
 
+### [Play here.](https://r4in1ng.github.io/mdzplus-mod)
+
 ## Features 
 
 - Beautified "data.js" file for easier modding, at the cost of larger file size.

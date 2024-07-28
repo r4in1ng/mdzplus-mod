@@ -18,7 +18,7 @@ This is my personal modification for Mini DayZ+ 1.2. I didn't name this mod beca
 - Modified amount of all buildings, also made the amount consistent across all islands.
 - All loot durabilities are changed to 100%.
 - Enabled the battle royale game mode item spawning system. Does not include the Bot/NPC spawns.
-- Added all items to **most of** the loot spawning table. With the exception of some items listed below:
+- Added all items on **most of** the loot spawning table. With the exception of some items listed below:
 	- Protector Case
 	- Officer's Keycard
 	- Mushroom (resets your game data when eaten)

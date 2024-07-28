@@ -37,4 +37,4 @@ Sure, you can say that I guess. I made the game a lot easier than it was origina
 
 ## Credits
 
-All credits goes to the original authors of Mini DayZ(+).
+All credits goes to the original authors of Mini DayZ, notably Altero for the Mini DayZ+ modification.

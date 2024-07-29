@@ -16,8 +16,11 @@ This is a fork of [NextDev65's MiniDayZ](https://github.com/NextDev65/MiniDayZ) 
 - Increased blood regeneration rate on all difficulties.
 - Secret locations are already revealed from the start.
 - Modified amount of all buildings, also made the amount consistent across all islands.
+- All kinds of zombies are activated at the start of the game.
+- Enabled respawn feature from the casual game mode.
 - All loot durabilities are changed to 100%.
 - Enabled the battle royale game mode item spawning system. Does not include the Bot/NPC spawns.
+- Modified battle royale loot tables, for faster gameplay progression.
 - Added all items on **most of** the loot spawning table. With the exception of some items listed below:
 	- Protector Case
 	- Officer's Keycard
@@ -30,6 +33,10 @@ And maybe some other changes that I may forgot to list here...
 - Offline play
 
 Your browser will cache necessary resources when you first load to the game. All you need for offline play is load up the game with internet connection available for the first time, after that you can turn off the internet connection and play the game. This applies the next time you load up the game. Unless, you have cleared your browser's cache.
+
+- Did not see latest updates/changes
+
+This is due to your browser still has the old files cache. This issue can be fixed by simply clearing your browser's cache.
 
 - "Casul" modification
 
